@@ -6,3 +6,5 @@
 </p>
 
 A repo of Azure Function App that gets summarised leetcode data using python
+
+![webex-msg](https://github.com/user-attachments/assets/475fbd15-a43c-4013-a01e-eebb6cc7f461)
